@@ -20,3 +20,4 @@
 4. Information Dashboard Design: Displaying Data for at a glance monitoring by Stephen Few
 5. The Functional Art by Alberto Cario
 6. Seminologgy of Graphics: Diagrams, Networks, Maps by Jacques Bertin
+7. History of Information Graphics - Taschen
